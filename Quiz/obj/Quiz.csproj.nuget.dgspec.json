@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\Desktop\\C#\\QuizProject\\Quiz\\Quiz.csproj": {}
+    "/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/Quiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\Desktop\\C#\\QuizProject\\Quiz\\Quiz.csproj": {
+    "/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/Quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\C#\\QuizProject\\Quiz\\Quiz.csproj",
+        "projectUniqueName": "/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/Quiz.csproj",
         "projectName": "Quiz",
-        "projectPath": "C:\\Users\\Pichau\\Desktop\\C#\\QuizProject\\Quiz\\Quiz.csproj",
-        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\Desktop\\C#\\QuizProject\\Quiz\\obj\\",
+        "projectPath": "/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/Quiz.csproj",
+        "packagesPath": "/Users/joaoleal/.nuget/packages/",
+        "outputPath": "/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/joaoleal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/bin/Debug/net8.0/Quiz
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/bin/Debug/net8.0/Quiz.deps.json
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/bin/Debug/net8.0/Quiz.runtimeconfig.json
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/bin/Debug/net8.0/Quiz.dll
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/bin/Debug/net8.0/Quiz.pdb
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/Quiz.AssemblyInfoInputs.cache
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/Quiz.AssemblyInfo.cs
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/Quiz.csproj.CoreCompileInputs.cache
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/Quiz.sourcelink.json
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/Quiz.dll
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/refint/Quiz.dll
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/Quiz.pdb
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/Quiz.genruntimeconfig.cache
+/Users/joaoleal/Documents/CSharp/csharp_quiz/Quiz/obj/Debug/net8.0/ref/Quiz.dll
